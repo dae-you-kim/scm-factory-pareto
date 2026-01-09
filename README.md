@@ -33,7 +33,7 @@
 ### 5. 실행 화면 (Demo)
 
 ```
-![실행화면](demo.png)
+![실행화면]([demo.png](https://github.com/dae-you-kim/scm-factory-pareto/blob/main/demo.png))
 ```
 > * **총 분석 품목:** 50개 (가상 데이터 생성 기능 탑재)
 > * **A등급 판정:** 매출 상위 20% 품목 → 집중 관리 대상 선정
